@@ -1,3 +1,9 @@
 name = "herwaypoint-worker"
 main = "src/index.js"
 compatibility_date = "2025-07-14"
+
+
+[[d1_databases]]
+binding = "DB"
+database_name = "herwaypoint_db"
+database_id = "8848efcf-5c28-4ff0-a751-e07c27ec588e"
