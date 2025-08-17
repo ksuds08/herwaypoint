@@ -22,20 +22,17 @@ HerWaypoint is an AI-powered travel concierge that connects solo female traveler
 | Launch | 11–12 | Soft launch, content marketing, feedback loop |
 
 ## Tech Stack (MVP)
-- **Frontend**: Next.js (deployed on Cloudflare Pages)
-- **Backend / API**: Cloudflare Workers
-- **Database**: Cloudflare D1 (SQL) + KV (key‑value) as needed
-- **AI**: OpenAI GPT‑4 API + rules engine
-- **Payments**: Stripe
-- **Analytics**: PostHog or Plausible
-## Monetization
-1. 15–20% commission per booking  
-2. Freemium traveler features (solo‑safety insights, itinerary builder)  
-3. Host subscriptions for premium visibility & analytics  
-4. Partnerships with women‑focused brands & travel orgs
+- **Frontend**: Vite + React (TypeScript) deployed on Cloudflare Pages
+- **Backend / API**: Cloudflare Workers (Pages Functions) with KV storage
+- **AI**: OpenAI-compatible API + rule-based TrustScore
+- **Testing**: Vitest unit tests and Playwright smoke tests
+- **CI/CD**: GitHub Actions
+
+## Development Plan
+See [PLAN.md](./PLAN.md) for a step-by-step outline of how this repository will evolve into the full MVP.
 
 ## Initial Target Cities
 Lisbon • Barcelona • Bali • Mexico City • Marrakech • Chiang Mai • NYC • Tokyo
 
 ---
-*Empowering women to explore the world safely, authentically, and together.*# herwaxypoint
+*Empowering women to explore the world safely, authentically, and together.*
