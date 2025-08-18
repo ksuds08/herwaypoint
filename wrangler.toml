@@ -1,0 +1,12 @@
+name = "herwaypoint"
+pages_build_output_dir = "dist"
+compatibility_date = "2025-07-14"
+
+[[kv_namespaces]]
+binding = "HERWAYPOINT_KV"
+id = "your_kv_id"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "herwaypoint_db"
+database_id = "8848efcf-5c28-4ff0-a751-e07c27ec588e"
