@@ -1,9 +1,9 @@
-# HerWaypoint
+# SheGoes
 
 AI-driven platform for women-led local experiences, curated especially for solo female travelers.
 
 ## Concept Summary
-HerWaypoint is an AI-powered travel concierge that connects solo female travelers with authentic experiences hosted by women. The platform prioritizes trust, safety, and personalized discovery while empowering local women to monetize their knowledge and talents.
+SheGoes is an AI-powered travel concierge that connects solo female travelers with authentic experiences hosted by women. The platform prioritizes trust, safety, and personalized discovery while empowering local women to monetize their knowledge and talents.
 
 ## Core Features
 - **Personalized Recommendations** – AI quiz matches travelers with women-hosted experiences based on style, goals, and comfort level.
